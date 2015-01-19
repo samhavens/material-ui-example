@@ -11,7 +11,7 @@
       return (
         <Paper innerClassName='favorites-page'>
           <header>
-            <h2>More about Emmett</h2>
+            <h2>About</h2>
           </header>
         </Paper>
       );
